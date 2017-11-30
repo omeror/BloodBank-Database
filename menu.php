@@ -1,0 +1,1 @@
+<a href="patient.php">Patients</a> <a href="patient_acc.php">Patient Accidents</a><a href="donor.php">Donors</a><a href="blood_in.php">Blood Inventory</a><a href="blood_don.php">Blood Donations</a> <a href="Hospital.php">Hospitals</a><a href="bad_blood.php">InvalidBlood</a></br>
